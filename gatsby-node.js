@@ -10,6 +10,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       allMarkdownRemark {
         edges {
           node {
+            html
             id
             frontmatter {
               path
