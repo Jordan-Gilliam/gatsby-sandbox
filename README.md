@@ -9,6 +9,8 @@
 
 # Gatsby Sandbox
 
+## This is a simple gatsby blog for playing around with graphql as a md blog
+
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
