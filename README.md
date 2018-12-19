@@ -9,7 +9,7 @@
 
 # Gatsby Sandbox
 
-## This is a simple gatsby blog for playing around with graphql as a md blog
+## This is a simple gatsby site for playing around with graphql as a md blog
 
 ## 💫 Deploy
 
